@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"file_exclude_patterns":
+	[
+		"._*",
+		".min.js",
+		"npm-debug.log",
+		".fuse_hidden*",
+		".DS_Store",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"bower_components",
+		"jsdoc",
+		"coverage",
+		".git"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

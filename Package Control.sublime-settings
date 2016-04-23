@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Brackets Color Scheme",
+		"Color Highlighter",
+		"ColorPicker",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Fix Mac Path",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"Monokai Extended",
+		"Numix Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"WordHighlight"
+	]
+}
