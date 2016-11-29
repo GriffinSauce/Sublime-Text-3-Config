@@ -2,7 +2,7 @@
     "user": {
         "debug": false,
         "delay": 0.25,
-        "error_color": "00a1ff",
+        "error_color": "#00a1ff",
         "gutter_theme": "Packages/Gutter Themes for SL/Rectangle Vertical/Rectangle Vertical.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
@@ -50,7 +50,7 @@
             "python django": "python",
             "pythonimproved": "python"
         },
-        "warning_color": "DDB700",
+        "warning_color": "#DDB700",
         "wrap_find": true
     }
 }
