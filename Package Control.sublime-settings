@@ -10,17 +10,19 @@
 		"Brackets Color Scheme",
 		"Color Highlighter",
 		"ColorPicker",
-		"DashDoc",
-		"DocBlockr",
-		"Emmet",
+		"EditorConfig",
 		"Fix Mac Path",
+		"Floobits",
 		"Git",
 		"Git Conflict Resolver",
 		"GitGutter",
+		"Gutter Themes for SL",
 		"Handlebars",
 		"JavaScriptNext - ES6 Syntax",
+		"JSX",
 		"LESS",
 		"Monokai Extended",
+		"Monokai Neue",
 		"Numix Theme",
 		"Package Control",
 		"Sass",
@@ -29,11 +31,16 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-sass-lint",
-		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"Tag",
 		"Theme - itg.flat",
 		"Theme - Soda",
 		"Theme - Spacegray",
 		"TrailingSpaces",
 		"WordHighlight"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/Tag"
 	]
 }
