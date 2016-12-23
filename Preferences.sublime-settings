@@ -8,7 +8,8 @@
 		".DS_Store",
 		"*.pyc",
 		"*.map.*",
-		"*css.map"
+		"*css.map",
+		"*.bundle.js"
 	],
 	"folder_exclude_patterns":
 	[
@@ -25,5 +26,6 @@
 	],
 	"tab_size": 4,
 	"theme": "itg.flat.dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
 }
